@@ -1,0 +1,9 @@
+joblib~=1.5.1
+Flask~=3.1.1
+pandas~=2.3.1
+scikit-learn~=1.7.1
+
+flask
+scikit-learn
+pandas
+joblib
